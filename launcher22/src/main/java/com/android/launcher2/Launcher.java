@@ -974,7 +974,7 @@ public final class Launcher extends Activity
         }
 
         //禁止左右键
-        if (keyCode == 200 || keyCode == 205 ) {
+        if (keyCode == 21 || keyCode == 22 ) {
             return false;
         }
 
